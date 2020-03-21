@@ -1,4 +1,9 @@
 ---
 label: Prova
 hide_body: false
-fields: []
+fields:
+- name: galleria_di_immagini
+  type: image_gallery
+  config: {}
+  label: Galleria di immagini
+  description: Questa è la descrizione per la galleria di immagini
