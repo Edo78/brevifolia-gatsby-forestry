@@ -7,3 +7,5 @@ fields:
   config: {}
   label: Galleria di immagini
   description: Questa è la descrizione per la galleria di immagini
+pages:
+- content/regali/primo_regalo.md
